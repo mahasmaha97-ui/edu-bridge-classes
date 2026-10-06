@@ -1,0 +1,18 @@
+package abce;
+public class
+{
+void m1()
+{
+system.out,println("String");
+}
+void m2()
+{
+system.out.println(2+4);
+}
+public static void main (String[]args)
+{
+class1bb=new class1();
+bb.m1();
+bb.m2();
+}
+}
